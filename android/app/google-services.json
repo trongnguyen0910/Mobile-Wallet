@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "566841533356",
+    "project_id": "wallet-fpt",
+    "storage_bucket": "wallet-fpt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566841533356:android:23b7b8b0555e47e5f41009",
+        "android_client_info": {
+          "package_name": "com.example.swdproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566841533356-3qumvnj2pl742utfnajpbikagbplbb4t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.swdproject",
+            "certificate_hash": "93e3b23096d0c796e030c6798f06b44a86d12ecd"
+          }
+        },
+        {
+          "client_id": "566841533356-489js097u0o1vstu8hfbkd6a0oq96f17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfDj95PpyYIi287Z5eu5wI3keDFFE13sw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566841533356-489js097u0o1vstu8hfbkd6a0oq96f17.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
